@@ -1,0 +1,14 @@
+/Users/dmitrystrigin/Documents/Git/gb01/Examples/Example001/bin/Debug/net7.0/Example001
+/Users/dmitrystrigin/Documents/Git/gb01/Examples/Example001/bin/Debug/net7.0/Example001.deps.json
+/Users/dmitrystrigin/Documents/Git/gb01/Examples/Example001/bin/Debug/net7.0/Example001.runtimeconfig.json
+/Users/dmitrystrigin/Documents/Git/gb01/Examples/Example001/bin/Debug/net7.0/Example001.dll
+/Users/dmitrystrigin/Documents/Git/gb01/Examples/Example001/bin/Debug/net7.0/Example001.pdb
+/Users/dmitrystrigin/Documents/Git/gb01/Examples/Example001/obj/Debug/net7.0/Example001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrystrigin/Documents/Git/gb01/Examples/Example001/obj/Debug/net7.0/Example001.AssemblyInfoInputs.cache
+/Users/dmitrystrigin/Documents/Git/gb01/Examples/Example001/obj/Debug/net7.0/Example001.AssemblyInfo.cs
+/Users/dmitrystrigin/Documents/Git/gb01/Examples/Example001/obj/Debug/net7.0/Example001.csproj.CoreCompileInputs.cache
+/Users/dmitrystrigin/Documents/Git/gb01/Examples/Example001/obj/Debug/net7.0/Example001.dll
+/Users/dmitrystrigin/Documents/Git/gb01/Examples/Example001/obj/Debug/net7.0/refint/Example001.dll
+/Users/dmitrystrigin/Documents/Git/gb01/Examples/Example001/obj/Debug/net7.0/Example001.pdb
+/Users/dmitrystrigin/Documents/Git/gb01/Examples/Example001/obj/Debug/net7.0/Example001.genruntimeconfig.cache
+/Users/dmitrystrigin/Documents/Git/gb01/Examples/Example001/obj/Debug/net7.0/ref/Example001.dll
